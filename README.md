@@ -8,7 +8,9 @@ Whether you're a developer looking to understand CRUD operations or a curious in
 
 ## Table of Contents
 1.Introduction
+
 2.Features
+
 3.Technologies Used
 
 ## 1.Introduction
