@@ -25,7 +25,7 @@ Delete: Remove [data type] entries from the system.
 ## 3.Technologies Used
 Css,Html,Php Programming language and Bootstrap 
 
-
+#
 Feel free to explore the code and learn how basic CRUD operations are implemented in this project. 
 
 If you have any questions or suggestions, please don't hesitate to contact me at silvanusagapt001@gmail.com or +255 622 475 195.
