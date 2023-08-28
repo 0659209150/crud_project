@@ -1,6 +1,6 @@
 # CRUD PROJECT
 
-Welcome to the README file for the CRUD (Create, Read, Update, Delete) Project. 
+Welcome to the README file for the CRUD ! 
 
 This project is designed to showcase the implementation of basic CRUD operations . 
 
